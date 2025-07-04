@@ -26,5 +26,6 @@ Security is a critical part of API integration. Most APIs require authentication
 Today, API integration is a key skill for developers and businesses alike. Tools like Postman help test APIs, while no-code platforms like Zapier and Make allow even non-technical users to set up basic API connections. As technology evolves, API integration will continue to power innovations — enabling devices, apps, and services to work together in smarter, faster, and more reliable ways.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/68de0dc3-5125-4544-81ff-e5740dba4a48)
 
 
